@@ -41,15 +41,6 @@
       "sipPort": "443"
     },
     {
-      "cmiHost": "psdev.phoenixsoft.com",
-      "cmiPort": 6321,
-      "name": "Development Andy",
-      "recordingsHost": "psdev.phoenixsoft.com:8444",
-      "sipHost": "psmizu.phoenixsoft.com",
-      "sipPath": "mfstwebsock",
-      "sipPort": "443"
-    },
-    {
       "cmiHost": "www.phoenixsoft.com",
       "cmiPort": 6321,
       "name": "Class 5",
