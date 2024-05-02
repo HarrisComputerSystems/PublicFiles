@@ -36,9 +36,9 @@
       "cmiPort": 6321,
       "name": "Development",
       "recordingsHost": "psdev.phoenixsoft.com:8444",
-      "sipHost": "psmizu.phoenixsoft.com",
-      "sipPath": "mfstwebsock",
-      "sipPort": "443"
+      "sipHost": "psdevws.phoenixsoft.com",
+      "sipPath": "",
+      "sipPort": "1443"
     },
     {
       "cmiHost": "www.phoenixsoft.com",
