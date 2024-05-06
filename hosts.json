@@ -6,56 +6,41 @@
       "cmiPort": 6321,
       "name": "Beta",
       "recordingsHost": "psbeta.phoenixsoft.com:8444",
-      "sipHost": "psmizu.phoenixsoft.com",
-      "sipPath": "mfstwebsock",
-      "sipPort": "443",
-      "teamsEntityId": "c3d52019-cbb7-4dcd-93b2-799ce4a8d8e4"
-    },
-    {
-      "cmiHost": "psbeta.phoenixsoft.com",
-      "cmiPort": 6321,
-      "name": "Beta Kamailio",
-      "recordingsHost": "psbeta.phoenixsoft.com:8444",
       "sipHost": "psbetaws.phoenixsoft.com",
       "sipPath": "",
-      "sipPort": "443",
+      "sipPort": 443,
       "teamsEntityId": "c3d52019-cbb7-4dcd-93b2-799ce4a8d8e4"
-    },
-    {
-      "cmiHost": "psbeta.phoenixsoft.com",
-      "cmiPort": 6321,
-      "name": "Beta Andy",
-      "recordingsHost": "psbeta.phoenixsoft.com:8444",
-      "sipHost": "psmizu.phoenixsoft.com",
-      "sipPath": "mfstwebsock",
-      "sipPort": "443",
-      "teamsEntityId": "7470d46b-1618-4364-9c63-738fba03e5e0"
     },
     {
       "cmiHost": "www.phoenixsoft.com",
       "cmiPort": 6321,
       "name": "Class 5",
-      "recordingsHost": "www.phoenixsoft.com"
+      "recordingsHost": "www.phoenixsoft.com:8444"
+      "sipHost": "psclass5ws.phoenixsoft.com",
+      "sipPath": "",
+      "sipPort": 443,
+      "teamsEntityId": ""
     },
     {
       "cmiHost": "psdev.phoenixsoft.com",
       "cmiPort": 6321,
       "name": "Development",
       "recordingsHost": "psdev.phoenixsoft.com:8444",
-      "sipHost": "psmizu.phoenixsoft.com",
-      "sipPath": "mfstwebsock",
-      "sipPort": "443"
+      "sipHost": "psbetaws.phoenixsoft.com",
+      "sipPath": "",
+      "sipPort": 443,
+      "teamsEntityId": ""
     },
     {
-      "cmiHost": "psbeta.phoenixsoft.com",
-      "cmiPort": 6321,
+      "cmiHost": "",
+      "cmiPort": 0,
       "name": "No Network",
       "offlineTest": true,
-      "recordingsHost": "psbeta.phoenixsoft.com:8444",
-      "sipHost": "psdev.phoenixsoft.com",
+      "recordingsHost": "",
+      "sipHost": "",
       "sipPath": "",
-      "sipPort": "443",
-      "teamsEntityId": "c3d52019-cbb7-4dcd-93b2-799ce4a8d8e4"
+      "sipPort": 0,
+      "teamsEntityId": ""
     }
   ]
 }
