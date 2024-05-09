@@ -15,7 +15,7 @@
       "cmiHost": "www.phoenixsoft.com",
       "cmiPort": 6321,
       "name": "Class 5",
-      "recordingsHost": "www.phoenixsoft.com:8444"
+      "recordingsHost": "www.phoenixsoft.com:8444",
       "sipHost": "psclass5ws.phoenixsoft.com",
       "sipPath": "",
       "sipPort": 443,
