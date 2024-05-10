@@ -32,8 +32,19 @@
       "teamsEntityId": ""
     },
     {
+      "cmiHost": "localhost",
+      "cmiPort": 6321,
+      "name": "Development (Andy)",
+      "recordingsHost": "psdev.phoenixsoft.com:8444",
+      "sipHost": "psdevws.phoenixsoft.com",
+      "sipPath": "",
+      "sipPort": 443,
+      "teamsEntityId": ""
+    },
+    {
       "cmiHost": "",
       "cmiPort": 0,
+      "debugModeOnly": true,
       "name": "No Network",
       "offlineTest": true,
       "recordingsHost": "",
