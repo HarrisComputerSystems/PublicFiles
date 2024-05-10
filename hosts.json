@@ -26,7 +26,7 @@
       "cmiPort": 6321,
       "name": "Development",
       "recordingsHost": "psdev.phoenixsoft.com:8444",
-      "sipHost": "psbetaws.phoenixsoft.com",
+      "sipHost": "psdevws.phoenixsoft.com",
       "sipPath": "",
       "sipPort": 443,
       "teamsEntityId": ""
