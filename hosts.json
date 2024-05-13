@@ -32,8 +32,9 @@
       "teamsEntityId": ""
     },
     {
-      "cmiHost": "localhost",
+      "cmiHost": "psdev.phoenixsoft.com",
       "cmiPort": 6321,
+      "cmiProxy": true,
       "name": "Development (Andy)",
       "recordingsHost": "psdev.phoenixsoft.com:8444",
       "sipHost": "psdevws.phoenixsoft.com",
