@@ -8,7 +8,7 @@
       "recordingsHost": "psbeta.phoenixsoft.com:8444",
       "sipHost": "psbetaws.phoenixsoft.com",
       "sipPath": "",
-      "sipPort": 443,
+      "sipPort": 1443,
       "teamsEntityId": "c3d52019-cbb7-4dcd-93b2-799ce4a8d8e4"
     },
     {
@@ -18,7 +18,7 @@
       "recordingsHost": "www.phoenixsoft.com:8444",
       "sipHost": "psclass5ws.phoenixsoft.com",
       "sipPath": "",
-      "sipPort": 443,
+      "sipPort": 1443,
       "teamsEntityId": ""
     },
     {
@@ -28,7 +28,7 @@
       "recordingsHost": "psdev.phoenixsoft.com:8444",
       "sipHost": "psdevws.phoenixsoft.com",
       "sipPath": "",
-      "sipPort": 443,
+      "sipPort": 1443,
       "teamsEntityId": ""
     },
     {
@@ -39,7 +39,7 @@
       "recordingsHost": "psdev.phoenixsoft.com:8444",
       "sipHost": "psdevws.phoenixsoft.com",
       "sipPath": "",
-      "sipPort": 443,
+      "sipPort": 1443,
       "teamsEntityId": ""
     },
     {
