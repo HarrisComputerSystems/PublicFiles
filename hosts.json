@@ -2,7 +2,8 @@
   "//": "Please let Andy know if any changes are made to this file",
   "hosts": [
     {
-      "cmiHost": "psbeta.phoenixsoft.com",
+      "xcmiHost": "psbeta.phoenixsoft.com",
+      "cmiHost": "pscmi.phoenixsoft.com",
       "cmiPort": 6321,
       "name": "Beta",
       "recordingsHost": "psbeta.phoenixsoft.com:8444",
